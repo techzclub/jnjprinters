@@ -1,0 +1,19 @@
+[
+  {
+    "id": "wedding-cards",
+    "category": "Wedding Cards",
+    "headline": "Luxury Invitations",
+    "description": "Foil-stamped invitations for your special day.",
+    "heroImage": "/images/hero-wedding.jpg",
+    "accentColor": "#CC223F",
+    "samples": [
+      {
+        "title": "Royal Gold Foil",
+        "image": "/images/sample-gold-wedding.jpg",
+        "paperTypes": ["Textured", "Metallic"],
+        "gsm": ["300 GSM", "400 GSM"],
+        "finishes": ["Gold Foiling", "Embossing"]
+      }
+    ]
+  }
+]
